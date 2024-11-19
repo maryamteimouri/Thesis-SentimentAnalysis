@@ -1,3 +1,5 @@
+To access my master's thesis check this [link]([url](https://www.utupub.fi/handle/10024/178872))
+
 # Thesis-SentimentAnalysis
 Pythons scripts used in my master's thesis, including data pre-processing and GPT Open AI Prompting
 
